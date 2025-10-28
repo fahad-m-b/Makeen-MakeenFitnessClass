@@ -110,10 +110,5 @@ The fitness club needs a basic system where they can:
 **Fahad Mohammed BaOmar**  
 📍 Salalah, Oman  
 📧 [fahadbao2002@gmail.com](mailto:fahadbao2002@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/fahad-baomar-b1a285213)## 🧑‍💻 Author
-**Fahad Mohammed BaOmar**  
-📍 Salalah, Oman  
-📧 [fahadbao2002@gmail.com](mailto:fahadbao2002@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/fahad-baomar-b1a285213)
-
+🔗 [LinkedIn](https://www.linkedin.com/in/fahad-baomar-b1a285213)##
 ---
